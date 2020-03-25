@@ -1,4 +1,5 @@
 # Author : D4RKSH4D0WS
+# Kalo rikod jgn apus author ya kampank ! 
 import requests,json,os
 G0 = "\033[0;32m"
 G1 = "\033[1;32m"
